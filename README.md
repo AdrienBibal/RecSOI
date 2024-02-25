@@ -12,3 +12,8 @@ In addition, the data collected to analyze the important of context is available
 
 ## Additional Resources
 Additional resources necessary to perform the evaluation of RecSOI and its competitors are available as pickle (pkl) files in the "Resources for RecSOI" folder.
+
+3 resources are too big to be uploaded here and should be requested to the authors:
+* The Logisitc Regression model used in the experiment
+* The new large dataset extending Boguslav et al.'s dataset
+* The embeddings of all the sentences in all papers of the large dataset
